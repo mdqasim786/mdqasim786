@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Qasim  
-### 🚀 Frontend Developer | React.js | JavaScript Enthusiast  
+### 🚀 Frontend Developer | React.js | TailwindCSS 
 
 I'm a passionate **Front-End Developer** currently completing my **Bachelor’s in Computer Science**.  
 With a year of hands-on experience, I love crafting clean, responsive, and user-focused web interfaces using **HTML, CSS, Tailwind CSS, JavaScript, and React.js**.  
