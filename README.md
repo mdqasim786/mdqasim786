@@ -8,7 +8,7 @@ With a year of hands-on experience, I love crafting clean, responsive, and user-
 
 ### 🧩 About Me
 - 🎓 Final-year CS student passionate about front-end technologies  
-- 💻 Currently building **Lumina AI Chatbot** – inspired by ChatGPT (React + TailwindCSS)  
+- 💻 Currently building **My First Saas Software** – QuickBill (React + TailwindCSS)  
 - 🛍️ Built a **fully functional E-Commerce website** using React  
 - 🎯 Focused on real-world problem-solving and design consistency  
 - 📚 Learning and exploring **real-life project environments** to strengthen my skills  
