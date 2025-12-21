@@ -14,7 +14,7 @@ I primarily work with **React, Tailwind CSS, and modern JavaScript**, and I’m 
 ---
 
 ### 🚀 Current Focus
-- Building **ApplyWise** – a SaaS-style Job application Tracking System(React + Tailwind + Firebase)
+- Building **ApplyWise** – a MERN-based job application tracking platform  
 - Improving backend fundamentals with **Node.js & Express**
 - Writing cleaner, more maintainable React code
 - Preparing for **junior frontend / MERN internships & roles**
@@ -37,9 +37,9 @@ I primarily work with **React, Tailwind CSS, and modern JavaScript**, and I’m 
 ---
 
 ### 🌟 Selected Projects
-🔹 **[ApplyWise](#)** — SaaS-style Job Tracking system using React, Tailwind CSS & Firebase *(In progress)* 
-🔹 **[QuickBill]** — SaaS-style billing system using React, Tailwind CSS & Firebase  
-🔹 **[E-Commerce Platform](https://github.com/mdqasim786/Ecommerce-Project)** — Full-stack React-based e-commerce application   
+🔹 **[ApplyWise](#)** — MERN-based job application tracking system *(Active development)*  
+🔹 **[QuickBill](#)** — SaaS-style billing application built with React, Tailwind CSS & Firebase  
+🔹 **[E-Commerce Platform](https://github.com/mdqasim786/Ecommerce-Project)** — Full-stack React-based e-commerce application  
 🔹 **[ANPR System](https://github.com/mdqasim786/anpr)** — AI-based number plate recognition (Final Year Project)
 
 ---
