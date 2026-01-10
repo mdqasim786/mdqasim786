@@ -1,68 +1,75 @@
-Hi, I'm Muhammad Qasim
+## 👋 Hi, I'm Muhammad Qasim
 
-Frontend Developer | React & Modern JavaScript
+**Frontend Developer | React & Modern JavaScript**
 
-I build clean, scalable, and user-focused web applications with a strong emphasis on UI quality, component reusability, and real-world frontend practices.
+I build **clean, scalable, and user-focused web applications** with a strong emphasis on UI quality, component reusability, and real-world frontend practices.
 
-My core expertise is frontend development, with growing exposure to backend technologies through hands-on projects.
+My primary strength is **frontend development**, with growing hands-on exposure to backend technologies through practical projects.
 
-💼 What I Do
+---
 
-Develop responsive, production-ready UIs using React & Tailwind CSS
+## 💼 What I Do
 
-Build reusable, maintainable component-based architectures
+* Develop responsive, production-ready user interfaces using **React & Tailwind CSS**
+* Design reusable, maintainable **component-based architectures**
+* Integrate frontend applications with **APIs and Firebase services**
+* Follow clean **Git & GitHub workflows** aligned with industry standards
 
-Integrate frontend applications with APIs and Firebase services
+---
 
-Follow clean Git & GitHub workflows for real-world projects
+## 🚀 Current Focus
 
-🚀 Current Focus
+* Building **ApplyWise** — a MERN-based job application tracking platform
+* Strengthening **React patterns, state management, and frontend architecture**
+* Improving backend fundamentals with **Node.js & Express**
+* Actively preparing for **junior frontend / MERN roles**
 
-Building ApplyWise — a MERN-based job application tracking platform
+---
 
-Strengthening React patterns & frontend architecture
+## 🛠 Tech Stack
 
-Improving backend fundamentals (Node.js & Express)
+### Frontend
 
-Actively preparing for junior frontend / MERN roles
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js, Tailwind CSS
 
-🛠 Tech Stack
+### Backend & Services
 
-Frontend
+* Node.js, Express.js *(fundamentals)*
+* Firebase *(Authentication, Firestore)*
 
-HTML5, CSS3, JavaScript (ES6+)
+### Tools
 
-React.js, Tailwind CSS
+* Git, GitHub
+* VS Code
 
-Backend & Services
+---
 
-Node.js, Express.js (fundamentals)
+## 🌟 Selected Projects
 
-Firebase (Authentication, Firestore)
+* **ApplyWise** — MERN-based job application tracking platform *(Active Development)*
+* **QuickBill** — SaaS-style billing & invoicing app built with React, Tailwind & Firebase
+* **E-Commerce Platform** — Full-stack React-based e-commerce application
+* **ANPR System** — AI-based number plate recognition *(Final Year Project)*
 
-Tools
+---
 
-Git, GitHub
+## 📈 GitHub Activity
 
-VS Code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=tokyonight&include_all_commits=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" />
+</p>
 
-🌟 Selected Projects
+---
 
-🔹 ApplyWise — MERN-based job application tracking platform (Active Development)
-🔹 QuickBill — SaaS-style billing & invoicing app (React, Tailwind, Firebase)
-🔹 E-Commerce Platform
- — Full-stack React-based e-commerce app
-🔹 ANPR System
- — AI-based number plate recognition (FYP)
+## 📫 Connect With Me
 
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=tokyonight&include_all_commits=false" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" /> </p>
-📫 Connect With Me
+* **Email:** [mdqasim5911@gmail.com](mailto:mdqasim5911@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/md-qasim/](https://www.linkedin.com/in/md-qasim/)
 
-Email: mdqasim5911@gmail.com
+---
 
-LinkedIn: https://www.linkedin.com/in/md-qasim/
-
-Building consistently.
+**Building consistently.
 Learning deliberately.
-Growing as a frontend engineer.
+Growing as a frontend engineer.**
