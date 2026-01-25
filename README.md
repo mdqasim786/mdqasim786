@@ -1,75 +1,74 @@
-## 👋 Hi, I'm Muhammad Qasim
+👋 Hi, I'm Muhammad Qasim
 
-**Frontend Developer | React & Modern JavaScript**
+Frontend Developer Intern | React & Modern JavaScript
 
-I build **clean, scalable, and user-focused web applications** with a strong emphasis on UI quality, component reusability, and real-world frontend practices.
+I build clean, responsive, and scalable web applications with a strong focus on UI quality, performance, and maintainable component design.
 
-My primary strength is **frontend development**, with growing hands-on exposure to backend technologies through practical projects.
+I specialize in frontend development using React & Tailwind CSS, with practical working knowledge of MERN backend fundamentals gained through real-world projects.
 
----
+💼 What I Do
 
-## 💼 What I Do
+Build production-ready, responsive UIs using React & Tailwind CSS
 
-* Develop responsive, production-ready user interfaces using **React & Tailwind CSS**
-* Design reusable, maintainable **component-based architectures**
-* Integrate frontend applications with **APIs and Firebase services**
-* Follow clean **Git & GitHub workflows** aligned with industry standards
+Design scalable, reusable component architectures
 
----
+Integrate frontend applications with APIs, Firebase, and backend services
 
-## 🚀 Current Focus
+Work with Node.js, Express, and MongoDB at a functional project level
 
-* Building **ApplyWise** — a MERN-based job application tracking platform
-* Strengthening **React patterns, state management, and frontend architecture**
-* Improving backend fundamentals with **Node.js & Express**
-* Actively preparing for **junior frontend / MERN roles**
+Follow clean Git & GitHub workflows used in professional teams
 
----
+🚀 Current Focus
 
-## 🛠 Tech Stack
+Working as a Frontend Developer Intern at Appverse Technologies
 
-### Frontend
+Building ApplyWise — a real-world MERN-based job application tracking platform
 
-* HTML5, CSS3, JavaScript (ES6+)
-* React.js, Tailwind CSS
+Writing cleaner, scalable React code using best practices
 
-### Backend & Services
+Strengthening backend understanding (Node.js, Express, MongoDB)
 
-* Node.js, Express.js *(fundamentals)*
-* Firebase *(Authentication, Firestore)*
+Preparing for junior frontend / MERN developer roles
 
-### Tools
+🛠 Tech Stack
+Frontend
 
-* Git, GitHub
-* VS Code
+HTML5, CSS3, JavaScript (ES6+)
 
----
+React.js, Tailwind CSS
 
-## 🌟 Selected Projects
+Backend & Services
 
-* **ApplyWise** — MERN-based job application tracking platform *(Active Development)*
-* **QuickBill** — SaaS-style billing & invoicing app built with React, Tailwind & Firebase
-* **E-Commerce Platform** — Full-stack React-based e-commerce application
-* **ANPR System** — AI-based number plate recognition *(Final Year Project)*
+Node.js, Express.js (working knowledge)
 
----
+MongoDB (basics)
 
-## 📈 GitHub Activity
+Firebase (Authentication, Firestore)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=tokyonight&include_all_commits=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" />
-</p>
+Tools
 
----
+Git, GitHub
 
-## 📫 Connect With Me
+VS Code
 
-* **Email:** [mdqasim5911@gmail.com](mailto:mdqasim5911@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/md-qasim/](https://www.linkedin.com/in/md-qasim/)
+🌟 Selected Projects
 
----
+ApplyWise — MERN-based job application tracking platform (Active Development)
 
-**Building consistently.
-Learning deliberately.
-Growing as a frontend engineer.**
+QuickBill — SaaS-style billing & invoicing app built with React, Tailwind & Firebase
+
+E-Commerce Platform — Full-stack React-based e-commerce application
+
+ANPR System — AI-based number plate recognition (Final Year Project)
+
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=tokyonight&include_all_commits=false" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" /> </p>
+📫 Connect With Me
+
+Email: mdqasim5911@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/md-qasim/
+
+Building real products.
+Learning from real-world experience.
+Growing as a professional frontend engineer.
