@@ -37,7 +37,7 @@ I build clean, responsive, and scalable web applications with a strong focus on 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" />
 </p>
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quotes
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
