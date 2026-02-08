@@ -23,13 +23,13 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 
 ## 🚀 Current Focus
 * Working as a **Frontend Developer Intern** at Appverse Technologies
-* Building **ApplyWise** — a MERN-based job application tracking platform
-* Strengthening backend understanding (Node.js, Express, MongoDB)
+* AutoMyx Digital — Digital agency website & brand platform (Under active development)
+* Strengthening backend understanding (Node.js, Express, MongoDB) [MERN]
 
 ## 🌟 Selected Projects
 * **ApplyWise** — MERN Job Tracking Platform
 * **QuickBill** — SaaS Billing App (React, Tailwind, Firebase)
-* **ANPR System** — AI-based number plate recognition (FYP)
+* **ANPR System** — AI-based Vehicle Detection System via CCTV Cameras (Final Year Project)
 
 ## 📈 GitHub Activity
 <p align="center">
