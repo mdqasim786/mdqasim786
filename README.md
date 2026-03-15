@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Qasim
 
-**Frontend Developer Intern | React & Modern JavaScript**
+**Developer & UI Craftsman | React & Modern JavaScript**
 
 I build clean, responsive, and scalable web applications with a strong focus on UI quality, performance, and maintainable component design. I specialize in frontend development using **React & Tailwind CSS**, with practical working knowledge of **MERN** backend fundamentals.
 
