@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Muhammad Qasim
+# I'm Muhammad Qasim,
 
-**Developer & UI Craftsman | React & Modern JavaScript**
+**Developer & UI Craftsman | React & Modern JavaScript | TailwindCSS**
 
 I build clean, responsive, and scalable web applications with a strong focus on UI quality, performance, and maintainable component design. I specialize in frontend development using **React & Tailwind CSS**, with practical working knowledge of **MERN** backend fundamentals.
 
@@ -10,6 +10,8 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_HANDLE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-qasim/)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01285a0e9bb227f77f?mp_source=share)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/wkYDwDA)
 
 ## 💻 Tech Stack:
 
@@ -22,17 +24,21 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 ---
 
 ## 🚀 Current Focus
-* Working as a **Frontend Developer Intern** at Appverse Technologies
-* AutoMyx Digital — Digital agency website & brand platform (Under active development)
-* Strengthening backend understanding (Node.js, Express, MongoDB) [MERN]
+* Working as a **Web Developer Intern** at Rhombix Technologies
+* Developing **Apex Kicks** — responsive e-commerce / sneaker store landing page
+* Strengthening MERN stack skills (React, Node.js, Express, MongoDB)
+* Growing AutoMyx Digital — digital agency platform & client projects
 
 ## 🌟 Selected Projects
+* **ANPR System** — AI-based Vehicle Detection System (Final Year Project)
+* **Exeton Website (NVIDIA OFFICIAL PARTNERS)** — responsive web development project with team collaboration
 * **ApplyWise** — MERN Job Tracking Platform
 * **QuickBill** — SaaS Billing App (React, Tailwind, Firebase)
-* **ANPR System** — AI-based Vehicle Detection System via CCTV Cameras (Final Year Project)
+* **Apex Kicks** — responsive e-commerce / sneaker store landing page
 
 ## 📈 GitHub Activity
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdqasim786&layout=compact&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" />
 </p>
@@ -41,4 +47,4 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
-📫 **Connect:** mdqasim5911@gmail.com
+📫 **mailto:** mdqasim5911@gmail.com
