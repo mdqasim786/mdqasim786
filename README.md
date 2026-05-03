@@ -24,10 +24,10 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 ---
 
 ## 🚀 Current Focus
-* Working as a **Web Developer Intern** at Rhombix Technologies
-* Developing **Apex Kicks** — responsive e-commerce / sneaker store landing page
-* Strengthening MERN stack skills (React, Node.js, Express, MongoDB)
-* Growing AutoMyx Digital — digital agency platform & client projects
+* Working as a **Web Developer** at DMU Pvt Ltd
+* Developing **K Falak Cool Breeze** All Right Reserved @DMU Pvt Ltd — responsive appliances installation & maintenance store landing page 
+* Strengthening backend stack skills (Node.js, Express)
+* Growing Automyx Digital — digital agency platform & client projects
 
 ## 🌟 Selected Projects
 * **ANPR System** — AI-based Vehicle Detection System (Final Year Project)
