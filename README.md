@@ -10,6 +10,7 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 
 ## 🌐 Socials:
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammadqasimdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-qasim/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01285a0e9bb227f77f?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/wkYDwDA)
@@ -25,11 +26,11 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 ---
 
 ## 🚀 Current Focus
-• Building production web & mobile applications at DMU Pvt Ltd
-• Developing responsive client projects using React & Tailwind CSS
-• Learning backend engineering with Node.js & Express
-• Preparing for open-source contributions
-• Building Nexora Tech Labs and modern AI-powered products
+* Building production web & mobile applications at DMU Pvt Ltd
+* Developing responsive client projects using React & Tailwind CSS
+* Learning backend engineering with Node.js & Express
+* Preparing for open-source contributions
+* Building Nexora Tech Labs and modern AI-powered products
 
 ## 🌟 Selected Projects
 * **ANPR System** — AI-based Vehicle Detection System (Final Year Project)
@@ -38,19 +39,19 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 * **Apex Kicks** — responsive e-commerce / sneaker store landing page
 
 ## 🌱 Currently Exploring
-• AI Systems Engineering
-• FastAPI & Python
-• Open Source Contributions
-• npm Package Development
-• Technical Writing
-• SaaS Architecture
+* AI Systems Engineering
+* FastAPI & Python
+* Open Source Contributions
+* npm Package Development
+* Technical Writing
+* SaaS Architecture
 
 ## 🤝 Open To
-• Frontend Development Opportunities
-• React & Next.js Projects
-• Open Source Collaboration
-• Freelance Work
-• AI-powered Product Development
+* Frontend Development Opportunities
+* React & Next.js Projects
+* Open Source Collaboration
+* Freelance Work
+* AI-powered Product Development
 
 ## 📈 GitHub Activity
 <p align="center">
