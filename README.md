@@ -1,14 +1,15 @@
 # I'm Muhammad Qasim,
 
-**Developer & UI Craftsman | React & Modern JavaScript | TailwindCSS**
+**Frontend Engineer | React, Next.js & Tailwind CSS | Building Modern Web Products**
 
-I build clean, responsive, and scalable web applications with a strong focus on UI quality, performance, and maintainable component design. I specialize in frontend development using **React & Tailwind CSS**, with practical working knowledge of **MERN** backend fundamentals.
+I build modern, responsive, and scalable web applications with React, Next.js, and Tailwind CSS. My experience ranges from translating complex Figma designs into production-ready interfaces to collaborating on real-world client projects.
+
+Beyond frontend development, I'm expanding into backend engineering, AI Systems, open source, and developer tools while continuously improving my software engineering skills.
 
 ---
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_HANDLE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-qasim/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01285a0e9bb227f77f?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/wkYDwDA)
@@ -24,17 +25,32 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 ---
 
 ## 🚀 Current Focus
-* Working as a **Web Developer** at DMU Pvt Ltd
-* Developing **K Falak Cool Breeze** All Right Reserved @DMU Pvt Ltd — responsive appliances installation & maintenance store landing page 
-* Strengthening backend stack skills (Node.js, Express)
-* Growing Automyx Digital — digital agency platform & client projects
+• Building production web & mobile applications at DMU Pvt Ltd
+• Developing responsive client projects using React & Tailwind CSS
+• Learning backend engineering with Node.js & Express
+• Preparing for open-source contributions
+• Building Nexora Tech Labs and modern AI-powered products
 
 ## 🌟 Selected Projects
 * **ANPR System** — AI-based Vehicle Detection System (Final Year Project)
-* **Exeton Website (NVIDIA OFFICIAL PARTNERS)** — responsive web development project with team collaboration
-* **ApplyWise** — MERN Job Tracking Platform
-* **QuickBill** — SaaS Billing App (React, Tailwind, Firebase)
+* **Exeton** — Exeton — Contributed to a large-scale website project for Exeton, an NVIDIA Partner, collaborating with a team to convert 40+ Figma designs into responsive Next.js pages.
+* **QuickBill** — SaaS billing application built with React, Tailwind CSS & Firebase.
 * **Apex Kicks** — responsive e-commerce / sneaker store landing page
+
+## 🌱 Currently Exploring
+• AI Systems Engineering
+• FastAPI & Python
+• Open Source Contributions
+• npm Package Development
+• Technical Writing
+• SaaS Architecture
+
+## 🤝 Open To
+• Frontend Development Opportunities
+• React & Next.js Projects
+• Open Source Collaboration
+• Freelance Work
+• AI-powered Product Development
 
 ## 📈 GitHub Activity
 <p align="center">
@@ -47,4 +63,5 @@ I build clean, responsive, and scalable web applications with a strong focus on 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
-📫 **mailto:** mdqasim5911@gmail.com
+## 📫 Let's Connect
+📧 mdqasim5911@gmail.com
