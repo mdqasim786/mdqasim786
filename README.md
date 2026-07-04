@@ -35,7 +35,7 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 
 ## 🌟 Selected Projects
 * **ANPR System** — AI-based Vehicle Detection System (Final Year Project)
-* **Exeton** — Exeton — Contributed to a large-scale website project for Exeton, an NVIDIA Partner, collaborating with a team to convert 40+ Figma designs into responsive Next.js pages.
+* **Exeton** — Contributed to a large-scale website project for Exeton, an NVIDIA Partner, collaborating with a team to convert 40+ Figma designs into responsive Next.js pages.
 * **QuickBill** — SaaS billing application built with React, Tailwind CSS & Firebase.
 * **Apex Kicks** — responsive e-commerce / sneaker store landing page
 
