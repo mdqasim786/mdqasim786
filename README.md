@@ -28,6 +28,10 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 ![PHP](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## 🚀 Open Source
+
+- 🤖 react-ai-chatkit — A customizable React & TypeScript chat UI component for AI assistants.
+
 ---
 
 ## 🚀 Current Focus
