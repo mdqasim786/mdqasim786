@@ -4,7 +4,7 @@
 
 I build modern, responsive, and scalable web applications with React, Next.js, and Tailwind CSS. My experience ranges from translating complex Figma designs into production-ready interfaces to collaborating on real-world client projects.
 
-Beyond frontend development, I'm expanding into backend engineering, AI Systems, open source, and developer tools while continuously improving my software engineering skills.
+Beyond frontend development, I'm expanding into backend engineering, AI Systems, open source, and developer tools. I also publish reusable npm packages and continuously improve my software engineering skills through real-world projects and community contributions.
 
 ---
 
