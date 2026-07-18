@@ -2,7 +2,7 @@
 
 **Frontend Engineer | React, Next.js & Tailwind CSS | Building Modern Web Products**
 
-I build modern, responsive, and scalable web applications with React, Next.js, and Tailwind CSS. My experience ranges from translating complex Figma designs into production-ready interfaces to collaborating on real-world client projects.
+I build modern, responsive, and scalable web applications with React, Next.js, and Tailwind CSS. My experience includes translating complex Figma designs into production-ready interfaces, building scalable frontend applications, and collaborating on real-world client projects.
 
 Beyond frontend development, I'm expanding into backend engineering, AI Systems, open source, and developer tools. I also publish reusable npm packages and continuously improve my software engineering skills through real-world projects and community contributions.
 
@@ -29,11 +29,22 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 ![PHP](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🚀 Open Source
-
-- 🤖 react-ai-chatkit — A customizable React & TypeScript chat UI component for AI assistants.
+## 📦 Published Packages
+- **[react-ai-chatkit](https://www.npmjs.com/package/react-ai-chatkit)** — A customizable React & TypeScript chat UI component for AI assistants, SaaS applications, and modern chatbot interfaces.
 
 ---
+
+## 🌟 Selected Projects
+- **[Exeton](https://exeton.com/)** — Contributed to a large-scale website project for Exeton, an NVIDIA Partner, collaborating with a team to convert 40+ Figma designs into responsive Next.js pages.
+- **[Apex Kicks](https://apexkicks.netlify.app/)** — Modern responsive sneaker store landing page built with React, TypeScript, and Tailwind CSS.
+- **[QuickBill](https://mdquickbill.netlify.app/)** — SaaS billing application built with React, Tailwind CSS, and Firebase.
+- **ANPR System** — AI-based Vehicle Detection System (Final Year Project).
+
+## 📝 Latest Articles
+- **[My First Large-Scale Next.js Project Taught Me More Than Any Tutorial Ever Could](https://medium.com/@muhammadqasimdev/my-first-large-scale-next-js-project-taught-me-more-than-any-tutorial-ever-could-3dcca85d8ecd)**
+  - Lessons learned from working on a production-scale Next.js project.
+- **[What Tutorials Don't Teach You Before Your First Frontend Job](https://medium.com/@muhammadqasimdev/what-tutorials-dont-teach-you-before-your-first-frontend-job-eb1798f1f980)**
+  - Practical lessons every junior frontend developer should know before joining a real team.
 
 ## 🚀 Current Focus
 * Building production web & mobile applications at DMU Pvt Ltd
@@ -41,12 +52,6 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 * Learning backend engineering with Node.js & Express
 * Preparing for open-source contributions
 * Building Nexora Tech Labs and modern AI-powered products
-
-## 🌟 Selected Projects
-* **ANPR System** — AI-based Vehicle Detection System (Final Year Project)
-* **Exeton** — Contributed to a large-scale website project for Exeton, an NVIDIA Partner, collaborating with a team to convert 40+ Figma designs into responsive Next.js pages.
-* **QuickBill** — SaaS billing application built with React, Tailwind CSS & Firebase.
-* **Apex Kicks** — responsive e-commerce / sneaker store landing page
 
 ## 🌱 Currently Exploring
 * AI Systems Engineering
@@ -69,9 +74,6 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
   <img src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" />
 </p>
-
-## ✍️ Dev Quotes
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 ## 📫 Let's Connect
