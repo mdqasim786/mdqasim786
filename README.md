@@ -51,7 +51,7 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 * Developing responsive client projects using React & Tailwind CSS
 * Learning backend engineering with Node.js & Express
 * Preparing for open-source contributions
-* Building Nexora Tech Labs and modern AI-powered products
+* Building NeuroniX Tech Labs and modern AI-powered products
 
 ## 🌱 Currently Exploring
 * AI Systems Engineering
