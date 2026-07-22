@@ -6,8 +6,6 @@ I build modern, scalable web applications and AI-powered digital products throug
 
 My work spans frontend engineering, AI systems, automation, SaaS products, and developer tooling. I enjoy transforming ideas into production-ready software with clean architecture, intuitive user experiences, and scalable codebases.
 
-Beyond frontend development, I'm expanding into backend engineering, AI Systems, open source, and developer tools. I also publish reusable npm packages and continuously improve my software engineering skills through real-world projects and community contributions.
-
 ---
 
 ## 🌐 Socials
