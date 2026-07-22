@@ -1,8 +1,10 @@
 # I'm Muhammad Qasim,
 
-**Frontend Engineer | React, Next.js & Tailwind CSS | Building Modern Web Products**
+**Founder @ NeuroniX Tech Labs | Frontend Engineer | React, Next.js, AI Systems & Modern Web Products**
 
-I build modern, responsive, and scalable web applications with React, Next.js, and Tailwind CSS. My experience includes translating complex Figma designs into production-ready interfaces, building scalable frontend applications, and collaborating on real-world client projects.
+I build modern, scalable web applications and AI-powered digital products through NeuroniX Tech Labs.
+
+My work spans frontend engineering, AI systems, automation, SaaS products, and developer tooling. I enjoy transforming ideas into production-ready software with clean architecture, intuitive user experiences, and scalable codebases.
 
 Beyond frontend development, I'm expanding into backend engineering, AI Systems, open source, and developer tools. I also publish reusable npm packages and continuously improve my software engineering skills through real-world projects and community contributions.
 
@@ -12,6 +14,7 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-qasim/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdqasim.netlify.app)
+[![NeuroniX](https://img.shields.io/badge/NeuroniX-Tech%20Labs-000000?style=for-the-badge&logo=googlechrome&logoColor=F7F2D4)](https://neuronix-agency.vercel.app)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mdqasim)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammadqasimdev)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01285a0e9bb227f77f?mp_source=share)
@@ -29,13 +32,39 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 ![PHP](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Technologies & Tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ## 📦 Published Packages
 - **[react-ai-chatkit](https://www.npmjs.com/package/react-ai-chatkit)** — A customizable React & TypeScript chat UI component for AI assistants, SaaS applications, and modern chatbot interfaces.
 
 ---
 
+## 🚀 Building
+
+### NeuroniX Tech Labs
+
+Pakistan-based software agency building
+
+• Modern Websites
+• SaaS Products
+• AI Systems
+• Business Automation
+• SEO Solutions
+
+Currently serving startups, businesses, and founders worldwide.
+
 ## 🌟 Selected Projects
-- **[Exeton](https://exeton.com/)** — Contributed to a large-scale website project for Exeton, an NVIDIA Partner, collaborating with a team to convert 40+ Figma designs into responsive Next.js pages.
+- **[Exeton](https://exeton.com/)** — Contributed to a large-scale website project for Exeton, an NVIDIA Partner, 
+collaborating with a team to convert 40+ Figma designs into responsive Next.js pages.
+- **[NeuroniX](https://neuronix-agency.vercel.app/)** — Official agency website built using Next.js, TypeScript and Tailwind CSS.
 - **[Apex Kicks](https://apexkicks.netlify.app/)** — Modern responsive sneaker store landing page built with React, TypeScript, and Tailwind CSS.
 - **[QuickBill](https://mdquickbill.netlify.app/)** — SaaS billing application built with React, Tailwind CSS, and Firebase.
 - **ANPR System** — AI-based Vehicle Detection System (Final Year Project).
@@ -47,11 +76,11 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
   - Practical lessons every junior frontend developer should know before joining a real team.
 
 ## 🚀 Current Focus
-* Building production web & mobile applications at DMU Pvt Ltd
-* Developing responsive client projects using React & Tailwind CSS
-* Learning backend engineering with Node.js & Express
-* Preparing for open-source contributions
-* Building NeuroniX Tech Labs and modern AI-powered products
+* Growing NeuroniX Tech Labs
+* Building AI-powered software products
+* Shipping open-source packages
+* Learning AI Systems & Automations Engineering
+* Contributing to open source
 
 ## 🌱 Currently Exploring
 * AI Systems Engineering
@@ -62,11 +91,12 @@ Beyond frontend development, I'm expanding into backend engineering, AI Systems,
 * SaaS Architecture
 
 ## 🤝 Open To
-* Frontend Development Opportunities
-* React & Next.js Projects
-* Open Source Collaboration
-* Freelance Work
-* AI-powered Product Development
+* Client Projects
+* Startup Collaboration
+* SaaS Development
+* AI Systems & Automations
+* React & Next.js
+* Open Source
 
 ## 📈 GitHub Activity
 <p align="center">
