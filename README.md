@@ -49,11 +49,11 @@ My work spans frontend engineering, AI systems, automation, SaaS products, and d
 
 Pakistan-based software agency building
 
-• Modern Websites
-• SaaS Products
-• AI Systems
-• Business Automation
-• SEO Solutions
+* Modern Websites
+* SaaS Products
+* AI Systems
+* Business Automation
+* SEO Solutions
 
 Currently serving startups, businesses, and founders worldwide.
 
