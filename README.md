@@ -94,13 +94,6 @@ collaborating with a team to convert 40+ Figma designs into responsive Next.js p
 * React & Next.js
 * Open Source
 
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdqasim786&layout=compact&theme=tokyonight" width="44%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=tokyonight" width="48%" />
-</p>
-
 ---
 ## 📫 Let's Connect
 📧 mdqasim5911@gmail.com
