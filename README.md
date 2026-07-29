@@ -70,6 +70,7 @@ collaborating with a team to convert 40+ Figma designs into responsive Next.js p
   - Lessons learned from working on a production-scale Next.js project.
 - **[What Tutorials Don't Teach You Before Your First Frontend Job](https://medium.com/@muhammadqasimdev/what-tutorials-dont-teach-you-before-your-first-frontend-job-eb1798f1f980)**
   - Practical lessons every junior frontend developer should know before joining a real team.
+  - **[My First Large-Scale Next.js Project Taught Me More Than Any Tutorial Ever Could](https://medium.com/@muhammadqasimdev/my-first-large-scale-next-js-project-taught-me-more-than-any-tutorial-ever-could-3dcca85d8ecd)**
 
 ## 🚀 Current Focus
 * Growing NeuroniX Tech Labs
