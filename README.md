@@ -66,13 +66,15 @@ collaborating with a team to convert 40+ Figma designs into responsive Next.js p
 - **ANPR System** — AI-based Vehicle Detection System (Final Year Project).
 
 ## 📝 Latest Articles
-- **[Why Most Junior Developers Stay Stuck (And It’s Usually Not Because of Coding)]
-(https://medium.com/@muhammadqasimdev/why-most-junior-developers-stay-stuck-and-its-usually-not-because-of-coding-dceb16db71cd)**
+
+- **[Why Most Junior Developers Stay Stuck (And It’s Usually Not Because of Coding)](https://medium.com/@muhammadqasimdev/why-most-junior-developers-stay-stuck-and-its-usually-not-because-of-coding-dceb16db71cd)**
   - The biggest obstacle isn’t React, JavaScript, or learning another framework. It’s the way most beginners think about software engineering.
+
 - **[What Tutorials Don't Teach You Before Your First Frontend Job](https://medium.com/@muhammadqasimdev/what-tutorials-dont-teach-you-before-your-first-frontend-job-eb1798f1f980)**
-  - Practical lessons every junior frontend developer should know before joining a real team.
-  - **[My First Large-Scale Next.js Project Taught Me More Than Any Tutorial Ever Could](https://medium.com/@muhammadqasimdev/my-first-large-scale-next-js-project-taught-me-more-than-any-tutorial-ever-could-3dcca85d8ecd)**
-  - Lessons from building more than 40 responsive pages for a production application with an international development team.
+  - Practical lessons every junior frontend developer should know before joining a real development team.
+
+- **[My First Large-Scale Next.js Project Taught Me More Than Any Tutorial Ever Could](https://medium.com/@muhammadqasimdev/my-first-large-scale-next-js-project-taught-me-more-than-any-tutorial-ever-could-3dcca85d8ecd)**
+  - Lessons from building 40+ responsive Next.js pages for a production application while collaborating with an international development team.
 
 ## 🚀 Current Focus
 * Growing NeuroniX Tech Labs
