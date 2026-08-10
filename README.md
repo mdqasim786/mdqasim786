@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Qasim 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Qasim</h1>
 
 <h3 align="center">Founder @ NeuroniX Tech Labs | Frontend Engineer | React, Next.js, AI Systems & Modern Web Products</h3>
 
