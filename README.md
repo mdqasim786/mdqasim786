@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdqasim.netlify.app-7C6FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://mdqasim.netlify.app)
 [![NeuroniX](https://img.shields.io/badge/Agency-NeuroniX%20Tech%20Labs-00E5BE?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://neuronix-agency.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-mdqasim5911%40gmail.com-0E0E14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdqasim5911@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mdqasim5911%40gmail.com-0E0E14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.mdqasim@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
 
@@ -20,14 +20,14 @@
 
 ### 👋 About Me
 
-I'm a **Frontend Engineer & AI Systems builder** based in Pakistan, helping startups and founders in the **US, UK, and UAE** turn ideas into production-ready web apps, SaaS products, and AI-powered systems — with clean architecture, intuitive UX, and scalable codebases.
+I'm a **Frontend Engineer & AI Systems builder** based in Pakistan, helping startups and founders in the **US, UK, and UAE and other as well** to turn ideas into production-ready web apps, SaaS products, and AI-powered systems — with clean architecture, intuitive UX, and scalable codebases.
 
-I currently work full-time as a React/Next.js developer at a digital agency in Islamabad, while running **NeuroniX Tech Labs**, my own studio for web/app development, AI automation, and SEO.
+I currently work full-time as a React/Next.js developer at a software organization in Islamabad, while running **NeuroniX Tech Labs**, my own studio for web/app development, AI automation, and SEO.
 
 - 🔭 Currently building **NeuroniX Tech Labs** and a portfolio of production SaaS tools
 - 🌱 Currently exploring **AI Systems Engineering**, FastAPI/Python, and SaaS architecture
 - 💬 Ask me about **React, Next.js, Figma-to-code conversion, or AI business automation**
-- 📫 Reach me at **[mdqasim5911@gmail.com](mailto:mdqasim5911@gmail.com)**
+- 📫 Reach me at **[work.mdqasim@gmail.com](mailto:work.mdqasim@gmail.com)**
 - 🟢 **Open to freelance, contract, and remote full-time opportunities**
 
 ---
@@ -114,10 +114,10 @@ Technical SEO and performance optimization for web products
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0E0E14&title_color=00E5BE&icon_color=7C6FFF&text_color=A89FFF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0E0E14&ring=7C6FFF&fire=00E5BE&currStreakLabel=A89FFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=dark&hide_border=true&bg_color=0E0E14&title_color=00E5BE&icon_color=7C6FFF&text_color=A89FFF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=dark&hide_border=true&background=0E0E14&ring=7C6FFF&fire=00E5BE&currStreakLabel=A89FFF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0E0E14&title_color=00E5BE&text_color=A89FFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdqasim786&layout=compact&theme=dark&hide_border=true&bg_color=0E0E14&title_color=00E5BE&text_color=A89FFF" />
 
 </div>
 
@@ -145,7 +145,7 @@ I'm actively taking on **client projects, startup collaborations, and remote rol
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7C6FFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mdqasim786&color=7C6FFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
