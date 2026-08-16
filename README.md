@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdqasim.netlify.app-7C6FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://mdqasim.netlify.app)
 [![NeuroniX](https://img.shields.io/badge/Agency-NeuroniX%20Tech%20Labs-00E5BE?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://neuronix-agency.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-mdqasim5911%40gmail.com-0E0E14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.mdqasim@gmail.com)
+[![Email](https://img.shields.io/badge/Email-work.mdqasim%40gmail.com-0E0E14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.mdqasim@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
 
