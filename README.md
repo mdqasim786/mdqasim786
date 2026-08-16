@@ -11,8 +11,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdqasim.netlify.app-7C6FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://mdqasim.netlify.app)
 [![NeuroniX](https://img.shields.io/badge/Agency-NeuroniX%20Tech%20Labs-00E5BE?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://neuronix-agency.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-work.mdqasim%40gmail.com-0E0E14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.mdqasim@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01285a0e9bb227f77f)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/akQQ2ra)
 
 </div>
 
@@ -121,8 +121,6 @@ Technical SEO and performance optimization for web products
 
 </div>
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle so the stats cards render correctly.
-
 ---
 
 ### 📝 Latest Articles
@@ -139,13 +137,11 @@ Technical SEO and performance optimization for web products
 
 I'm actively taking on **client projects, startup collaborations, and remote roles** in React/Next.js development and AI systems.
 
-[![Email](https://img.shields.io/badge/Email%20Me-mdqasim5911%40gmail.com-7C6FFF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mdqasim5911@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Me-mdqasim5911%40gmail.com-7C6FFF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:work.mdqasim@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-00E5BE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mdqasim.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-qasim/)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mdqasim786&color=7C6FFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
