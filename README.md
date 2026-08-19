@@ -137,7 +137,7 @@ Technical SEO and performance optimization for web products
 
 I'm actively taking on **client projects, startup collaborations, and remote roles** in React/Next.js development and AI systems.
 
-[![Email](https://img.shields.io/badge/Email%20Me-mdqasim5911%40gmail.com-7C6FFF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:work.mdqasim@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Me-work.mdqasim%40gmail.com-7C6FFF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:work.mdqasim@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-00E5BE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://mdqasim.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-qasim/)
 
