@@ -18,7 +18,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I'm a **Frontend Engineer & AI Systems builder** based in Pakistan, helping startups and founders in the **US, UK, and UAE and other as well** to turn ideas into production-ready web apps, SaaS products, and AI-powered systems — with clean architecture, intuitive UX, and scalable codebases.
 
