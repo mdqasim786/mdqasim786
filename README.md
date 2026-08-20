@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0E14,100:7C6FFF&height=200&section=header&text=Muhammad%20Qasim&fontSize=42&fontColor=00E5BE&animation=fadeIn&fontAlignY=38&desc=Founder%20@%20NeuroniX%20Tech%20Labs%20%7C%20React%20%26%20Next.js%20Engineer%20%7C%20AI%20Systems&descAlignY=55&descSize=16&descColor=A89FFF" width="100%"/> -->
-
 <a href="https://mdqasim.netlify.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C6FFF&center=true&vCenter=true&width=650&lines=I+build+production-ready+web+apps+%26+SaaS+products;Figma+to+React+%7C+Next.js+%7C+TypeScript;AI+Systems+%26+Business+Automation;Currently+available+for+freelance+%26+remote+work" alt="Typing SVG" />
 </a>
