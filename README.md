@@ -108,19 +108,6 @@ Technical SEO and performance optimization for web products
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mdqasim786&show_icons=true&theme=dark&hide_border=true&bg_color=0E0E14&title_color=00E5BE&icon_color=7C6FFF&text_color=A89FFF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mdqasim786&theme=dark&hide_border=true&background=0E0E14&ring=7C6FFF&fire=00E5BE&currStreakLabel=A89FFF" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdqasim786&layout=compact&theme=dark&hide_border=true&bg_color=0E0E14&title_color=00E5BE&text_color=A89FFF" />
-
-</div>
-
----
-
 ### 📝 Latest Articles
 
 - [Why Most Junior Developers Stay Stuck (And It's Usually Not Because of Coding)](https://medium.com/@muhammadqasimdev/why-most-junior-developers-stay-stuck-and-its-usually-not-because-of-coding-dceb16db71cd)
