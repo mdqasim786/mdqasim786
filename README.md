@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a **Frontend Engineer & AI Systems builder** based in Pakistan, helping startups and founders in the **US, UK, and UAE and other as well** to turn ideas into production-ready web apps, SaaS products, and AI-powered systems — with clean architecture, intuitive UX, and scalable codebases.
+I'm a **Frontend Engineer & AI Systems builder** based in Pakistan, helping startups and founders in the **US, UK, and UAE and other as well** to turn ideas into production-ready web apps, SaaS products, and Agentic Engineering with clean architecture, intuitive UX, and scalable codebases.
 
 I currently work full-time as a React/Next.js developer at a software organization in Islamabad, while running **NeuroniX Tech Labs**, my own studio for web/app development, AI automation, and SEO.
 
