@@ -145,7 +145,7 @@ I enjoy building and contributing to developer-focused projects.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
 
