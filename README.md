@@ -89,14 +89,6 @@ AI-based vehicle detection and identification system developed as a Final Year P
 
 ---
 
-### 📦 react-ai-chatkit
-My published **NPM package** — a customizable React/TypeScript chat UI kit for AI assistants and SaaS applications.
-
-[![NPM](https://img.shields.io/npm/v/react-ai-chatkit?style=flat-square&logo=npm)](https://www.npmjs.com/package/react-ai-chatkit)
-[![Downloads](https://img.shields.io/npm/dm/react-ai-chatkit?style=flat-square)](https://www.npmjs.com/package/react-ai-chatkit)
-
----
-
 ## ✍️ Writer & Developer Educator
 
 I write about **software development, AI, developer growth, career lessons, and the things tutorials often don't teach you**.
@@ -110,7 +102,8 @@ I write about **software development, AI, developer growth, career lessons, and 
 I enjoy building and contributing to developer-focused projects.
 
 - 🐙 **Open Source Contributor** — contributing to real-world projects and codebases
-- 📦 **NPM Package Creator** — [react-ai-chatkit](https://www.npmjs.com/package/react-ai-chatkit)
+- 📦 **NPM Package Creator** — [react-ai-chatkit](https://www.npmjs.com/package/react-ai-chatkit) [![NPM](https://img.shields.io/npm/v/react-ai-chatkit?style=flat-square&logo=npm)](https://www.npmjs.com/package/react-ai-chatkit)
+[![Downloads](https://img.shields.io/npm/dm/react-ai-chatkit?style=flat-square)](https://www.npmjs.com/package/react-ai-chatkit)
 
 ---
 
