@@ -103,8 +103,6 @@ I enjoy building and contributing to developer-focused projects.
 
 - 🐙 **Open Source Contributor** — contributing to real-world projects and codebases
 - 📦 **NPM Package Creator** — [react-ai-chatkit](https://www.npmjs.com/package/react-ai-chatkit)
-- 🔧 Building reusable React/TypeScript components and developer tools
-- 🚀 Exploring more open-source contributions and AI developer tooling
 
 ---
 
