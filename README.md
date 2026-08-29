@@ -93,13 +93,7 @@ My published **NPM package** — a customizable React/TypeScript chat UI kit for
 
 I write about **software development, AI, developer growth, career lessons, and the things tutorials often don't teach you**.
 
-### Featured Writing
-
-- [Why Most Junior Developers Stay Stuck (And It's Usually Not Because of Coding)](https://medium.com/@muhammadqasimdev/why-most-junior-developers-stay-stuck-and-its-usually-not-because-of-coding-dceb16db71cd)
-- [What Tutorials Don't Teach You Before Your First Frontend Job](https://medium.com/@muhammadqasimdev/what-tutorials-dont-teach-you-before-your-first-frontend-job-eb1798f1f980)
-- [My First Large-Scale Next.js Project Taught Me More Than Any Tutorial Ever Could](https://medium.com/@muhammadqasimdev/my-first-large-scale-next-js-project-taught-me-more-than-any-tutorial-ever-could-3dcca85d8ecd)
-
-📖 **Read more:** [medium.com/@muhammadqasimdev](https://medium.com/@muhammadqasimdev)
+📖 **Read Here:** [medium.com/@muhammadqasimdev](https://medium.com/@muhammadqasimdev)
 
 ---
 
