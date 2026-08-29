@@ -56,16 +56,6 @@ Outside of client and professional work, I build my own products, contribute to 
 
 ---
 
-## 🧩 What I Build
-
-- 🌐 **Web & SaaS Products** — React, Next.js, TypeScript and modern full-stack architectures
-- 🎨 **Figma → Production** — Pixel-perfect, responsive and scalable interfaces
-- 🤖 **AI Systems & Automation** — AI agents, chat interfaces and business automation
-- 🧰 **Developer Tools** — Reusable libraries, components and open-source packages
-- ⚡ **Performance & UX** — Fast, accessible and production-ready experiences
-
----
-
 ## 🚀 Featured Work
 
 ### 🟣 Exeton
