@@ -154,29 +154,3 @@ I enjoy building and contributing to developer-focused projects.
 </div>
 
 ---
-
-<div align="center">
-
-## 🦂 Keep Building. Keep Contributing.
-
-**Code → Build → Learn → Share → Repeat**
-
-<br/>
-
-<a href="https://mdqasim.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-7C6FFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/md-qasim/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:work.mdqasim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-0E0E14?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6FFF,100:0E0E14&height=100&section=footer" width="100%"/>
-
-</div>
