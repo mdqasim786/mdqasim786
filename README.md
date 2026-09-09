@@ -57,7 +57,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** focused on building production-ready web applications, SaaS products, developer tools, and AI-powered systems. I currently work as a **React/Next.js Developer** while continuously exploring AI Systems Engineering and business automation.
+I'm a **FULL STACK SOFTWARE ENGINEER & DEVELOPER** focused on building production-ready web applications, SaaS products, developer tools, and AI-powered systems. I currently work as a **React/Next.js Developer** while continuously exploring AI Systems Engineering and business automation.
 
 I've also worked with an **international development team on a project for an NVIDIA Official Partner**, contributing to a large-scale Next.js platform and converting **40+ Figma designs into responsive production interfaces**.
 
