@@ -47,7 +47,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mdqasim.netlify.app-7C6FFF?style=for-the-badge&logo=vercel&logoColor=white)](https://mdqasim.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-qasim/)
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammadqasimdev)
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iammdqasim)
 [![NPM](https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mdqasim)
 [![Email](https://img.shields.io/badge/Email-work.mdqasim%40gmail.com-0E0E14?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.mdqasim@gmail.com)
 
