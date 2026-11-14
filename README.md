@@ -104,7 +104,7 @@ I write about **software development, AI, developer growth, career lessons, and 
 
 I enjoy building and contributing to developer-focused projects.
 
-- 🐙 **Open Source Contributor** — contributing to real-world projects and codebases
+- 🐙 **Open Source Enthusiast** — exploring and contributing to developer-focused projects
 - 📦 **NPM Package Creator** — [react-ai-chatkit](https://www.npmjs.com/package/react-ai-chatkit) [![NPM](https://img.shields.io/npm/v/react-ai-chatkit?style=flat-square&logo=npm)](https://www.npmjs.com/package/react-ai-chatkit)
 [![Downloads](https://img.shields.io/npm/dm/react-ai-chatkit?style=flat-square)](https://www.npmjs.com/package/react-ai-chatkit)
 
