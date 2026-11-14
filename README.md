@@ -67,28 +67,47 @@ Outside of client and professional work, I build my own products, contribute to 
 
 ---
 
+
 ## 🚀 Featured Work
 
-### 🟣 Exeton
-**Enterprise platform for an NVIDIA Official Partner**
+### 🟣 [Exeton](https://exeton.com/)
+**Enterprise AI & HPC Infrastructure Platform**
 
-Worked with an international development team to transform **40+ Figma designs** into responsive Next.js pages and production-ready interfaces.
+Contributed to a large-scale production platform for an NVIDIA Official Partner as part of an international development team. Worked on translating **40+ Figma designs** into responsive, production-ready interfaces.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · React
+**Stack:** Next.js · React · TypeScript · Tailwind CSS
+
+🔗 [Live Website](https://exeton.com/)
 
 ---
 
-### 👟 Apex Kicks
-Modern sneaker-store landing experience focused on responsive UI, product presentation and polished interactions.
+### ❄️ [K Falak Cool Breeze](https://www.kfalakcoolbreeze.com/)
+**Electronics & Appliance Repair Business Website**
+
+Contributed to a business website for an electronics and appliance repair service provider, featuring service information, repair booking, customer testimonials, and an interactive service estimate calculator.
+
+🔗 [Live Website](https://www.kfalakcoolbreeze.com/)
+
+---
+
+### 🌍 [Boost UP Pakistan](https://www.boostuppakistan.org/)
+**Nonprofit & Community Development Organization**
+
+Contributed to a website for a youth-led organization focused on education, leadership development, community support, and social impact.
+
+🔗 [Live Website](https://www.boostuppakistan.org/)
+
+---
+
+### 👟 [Apex Kicks](https://apexkicks.netlify.app/)
+**Modern Sneaker Store & E-commerce Experience**
+
+Built a responsive sneaker-store experience with modern product presentation, polished UI, and interactive elements.
 
 **Stack:** React · TypeScript · Tailwind CSS
 
----
+🔗 [Live Demo](https://apexkicks.netlify.app/)
 
-### 🚗 Vehicle Theft Detection System
-AI-based vehicle detection and identification system developed as a Final Year Project, designed around automated vehicle recognition and detection workflows.
-
-**Focus:** AI · Computer Vision · Vehicle Detection
 
 ---
 
