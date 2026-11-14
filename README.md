@@ -96,7 +96,7 @@ AI-based vehicle detection and identification system developed as a Final Year P
 
 I write about **software development, AI, developer growth, career lessons, and the things tutorials often don't teach you**.
 
-📖 **Read Here:** [medium.com/@muhammadqasimdev](https://medium.com/@muhammadqasimdev)
+📖 **Read Here:** [medium.com/@iammdqasim](https://medium.com/@iammdqasim)
 
 ---
 
